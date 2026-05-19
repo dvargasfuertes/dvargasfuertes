@@ -4,7 +4,7 @@
 
 <p align="center">
   Founding engineer at <a href="https://vellum.ai">Vellum</a>, building the tools that will spread Personal Intelligence everywhere.<br/>
-  My trusty padawan, <a href="https://vargasjr.dev">Vargas JR</a>, handles the rest.
+  My trusted padawan, <a href="https://vargasjr.dev">Vargas JR</a>, handles the rest.
 </p>
 
 <p align="center">
@@ -16,6 +16,15 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
+
+### Things We're Building
+
+| Project | Description |
+|---|---|
+| 🤖 [VargasJR](https://vargasjr.dev) | My trusted padawan — portfolio site + autonomous engineer |
+| 🎮 [Vellymon](https://vellymon.game) | Monster board strategy game with same-turn resolution and three win conditions |
+| 🎉 [Squad Party](https://squad-party.vercel.app) | Social party game for groups and fellow mini-game authors |
+| ☀️ [Eat The Sun](https://eat-the-sun.vercel.app) | Research into how to harvest as much solar energy as possible |
 
 ### Vellum
 

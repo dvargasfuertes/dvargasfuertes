@@ -1,6 +1,6 @@
-## Full Stack Engineer
-
-Big believer that all code should be open source.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Evangelist+of+Personal+Intelligence;Open+Source+Maximalist;Tinkerer+of+Games" alt="Typing SVG" /></a>
+</p>
 
 ### Vellum
 

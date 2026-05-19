@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  Founding engineer at <a href="https://vellum.ai">Vellum</a>, building the tools that make AI reliable.<br/>
-  On the side: games, a Dyson sphere, and an AI that calls me Master.<br/>
-  Open source everything.
+  Founding engineer at <a href="https://vellum.ai">Vellum</a>, building the tools that will spread Personal Intelligence everywhere.<br/>
+  My trusty padawan, <a href="https//vargasjr.dev">Vargas JR</a>, handles the rest.
 </p>
 
 ### Vellum

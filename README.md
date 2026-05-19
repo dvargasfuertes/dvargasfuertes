@@ -21,10 +21,13 @@
 
 | Project | Description |
 |---|---|
+| 🧠 [Vellum](https://vellum.ai) | Production-ready LLM ops platform — founding engineer |
 | 🤖 [VargasJR](https://vargasjr.dev) | My trusted padawan — portfolio site + autonomous engineer |
 | 🎮 [Vellymon](https://vellymon.game) | Monster board strategy game with same-turn resolution and three win conditions |
 | 🎉 [Squad Party](https://squad-party.vercel.app) | Social party game for groups and fellow mini-game authors |
 | ☀️ [Eat The Sun](https://eat-the-sun.vercel.app) | Research into how to harvest as much solar energy as possible |
+| 🖥️ [personal-os](https://github.com/vargasjr-dev/personal-os) | Assistant-native OS in Rust — VargasJR's future home |
+| ⚖️ [WeNeedAPILiability.org](https://weneedapiliability.org) | Advocacy for API liability standards |
 
 ### Vellum
 

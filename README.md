@@ -2,6 +2,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Evangelist+of+Personal+Intelligence;Open+Source+Maximalist;Tinkerer+of+Games" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  Founding engineer at <a href="https://vellum.ai">Vellum</a>, building the tools that make AI reliable.<br/>
+  On the side: games, a Dyson sphere, and an AI that calls me Master.<br/>
+  Open source everything.
+</p>
+
 ### Vellum
 
 Organization: https://github.com/vellum-ai

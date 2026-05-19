@@ -4,7 +4,17 @@
 
 <p align="center">
   Founding engineer at <a href="https://vellum.ai">Vellum</a>, building the tools that will spread Personal Intelligence everywhere.<br/>
-  My trusty padawan, <a href="https//vargasjr.dev">Vargas JR</a>, handles the rest.
+  My trusty padawan, <a href="https://vargasjr.dev">Vargas JR</a>, handles the rest.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ### Vellum

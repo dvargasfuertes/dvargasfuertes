@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
+### Things I've Built
+
+| Project | Description |
+|---|---|
+| 🎮 [vellymon.game](https://vellymon.game) | Monster collection game with AI-generated cosmetics |
+| 🤖 [VargasJR](https://vargasjr.dev) | My AI padawan — portfolio site + autonomous engineer |
+| ☀️ [eat-the-sun](https://eat-the-sun.vercel.app) | Orbital ring / Dyson sphere research & simulation |
+| 🎉 [Squad Party](https://squad-party.vercel.app) | Social party game for groups |
+
 ### Vellum
 
 Organization: https://github.com/vellum-ai

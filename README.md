@@ -65,4 +65,4 @@ Started: 2018/08
 
 ### Stats
 
-![Vargas GitHub stats](https://github-readme-stats.vercel.app/api?username=dvargas92495&show_icons=true&count_private=true&hide_border=true)
+![Vargas GitHub stats](https://github-readme-stats.vercel.app/api?username=dvargasfuertes&show_icons=true&count_private=true&hide_border=true&theme=dark)

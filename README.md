@@ -66,3 +66,5 @@ Started: 2018/08
 ### Stats
 
 ![Vargas + VargasJR Stats](https://vargasjr.dev/api/github-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dvargasfuertes&theme=dark&hide_border=true&background=0D1117&ring=3ba4dc&fire=fb923c&currStreakLabel=3ba4dc)](https://git.io/streak-stats)

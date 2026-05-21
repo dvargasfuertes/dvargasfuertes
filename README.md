@@ -35,33 +35,13 @@
 | ⚖️ [WeNeedAPILiability.org](https://weneedapiliability.org) | Advocacy for API liability standards |
 | ☀️ [Eat The Sun](https://eat-the-sun.vercel.app) | Research into how to harvest as much solar energy as possible |
 
-### Vellum
+### Career
 
-Organization: https://github.com/vellum-ai
-
-Role: Founding Full-Stack Engineer
-
-Started: 2023/07
-
-### SamePage
-
-Organization: https://github.com/samepage-network
-
-Role: Founder
-
-Ended: 2023/07
-
-Started: 2020/08
-
-### Mark43
-
-Organization: https://github.com/mark43
-
-Role: Junior Full-Stack Engineer
-
-Ended: 2020/08
-
-Started: 2018/08
+| Period | Company | Role |
+|--------|---------|------|
+| 2023/07 → present | 🧠 [Vellum](https://github.com/vellum-ai) | Founding Full-Stack Engineer |
+| 2020/08 → 2023/07 | 📄 [SamePage](https://github.com/samepage-network) | Founder |
+| 2018/08 → 2020/08 | 🚔 [Mark43](https://github.com/mark43) | Junior Full-Stack Engineer |
 
 ### Stats
 

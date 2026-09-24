@@ -3,13 +3,12 @@
 </p>
 
 <p align="center">
-  Platform for raising Personal Intelligence<br/>
   My trusted padawan, <a href="https://vargasjr.dev">Vargas JR</a>, handles the rest.
 </p>
 
 <p align="center">
   <a href="https://twitter.com/dvargasfuertes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://vargasjr.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://vargasjr.dev/projects"><img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Portfolio-000000?style=flat" alt="Portfolio" /></a>
   <a href="mailto:dvargasfuertes@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -17,7 +16,7 @@
 
 | Period | Company | Role |
 |--------|---------|------|
-| 2026/06 → present | 🏛️ [Vargas Jr LLC](https://vargasjr.dev) | Founder |
+| 2026/06 → present | ⚔️ [Vargas Jr LLC](https://vargasjr.dev) | Founder |
 | 2023/07 → present | 🧠 [Vellum](https://github.com/vellum-ai) | Founding Full-Stack Engineer |
 | 2020/08 → 2023/07 | 📄 [SamePage](https://github.com/samepage-network) | Founder |
 | 2018/08 → 2020/08 | 🚔 [Mark43](https://github.com/mark43) | Junior Full-Stack Engineer |

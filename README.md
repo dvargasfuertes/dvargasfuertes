@@ -3,32 +3,20 @@
 </p>
 
 <p align="center">
-  Platform for raising Personal Intelligence<br/>
   My trusted padawan, <a href="https://vargasjr.dev">Vargas JR</a>, handles the rest.
 </p>
 
 <p align="center">
   <a href="https://twitter.com/dvargasfuertes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://vargasjr.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://vargasjr.dev/projects"><img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Portfolio-000000?style=flat" alt="Portfolio" /></a>
   <a href="mailto:dvargasfuertes@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-### Things We're Building
-
-| Project | Description |
-|---|---|
-| 🧠 [Vellum](https://vellum.ai) | Platform for raising Personal Intelligence |
-| 🤖 [VargasJR](https://vargasjr.dev) | My trusted padawan — portfolio site + autonomous engineer |
-| 🎮 [Vellymon](https://vellymon.game) | Monster board strategy game with same-turn resolution and three win conditions |
-| 🎉 [Squad Party](https://squad-party.vercel.app) | Social party game for groups and fellow mini-game authors |
-| 🖥️ [personal-os](https://github.com/vargasjr-dev/personal-os) | Assistant-native OS in Rust - VargasJR's future home |
-| ⚖️ [We Need API Liability](https://weneedapiliability.org) | Advocacy for API liability standards |
-| ☀️ [Eat The Sun](https://eat-the-sun.vercel.app) | Research into how to harvest as much solar energy as possible |
 
 ### Career
 
 | Period | Company | Role |
 |--------|---------|------|
+| 2026/06 → present | ⚔️ [Vargas Jr LLC](https://vargasjr.dev) | Founder |
 | 2023/07 → present | 🧠 [Vellum](https://github.com/vellum-ai) | Founding Full-Stack Engineer |
 | 2020/08 → 2023/07 | 📄 [SamePage](https://github.com/samepage-network) | Founder |
 | 2018/08 → 2020/08 | 🚔 [Mark43](https://github.com/mark43) | Junior Full-Stack Engineer |

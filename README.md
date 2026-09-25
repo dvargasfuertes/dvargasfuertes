@@ -7,12 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/dvargasfuertes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://twitter.com/dvargasfuertes"><img src="https://img.shields.io/badge/Twitter-%F0%9F%90%A6-1DA1F2?style=flat" alt="Twitter" /></a>
   <a href="https://vargasjr.dev/projects"><img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Portfolio-000000?style=flat" alt="Portfolio" /></a>
   <a href="mailto:dvargasfuertes@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### Career
+<div align="center">
+
+<h2>Career</h2>
 
 | Period | Company | Role |
 |--------|---------|------|
@@ -21,9 +23,15 @@
 | 2020/08 → 2023/07 | 📄 [SamePage](https://github.com/samepage-network) | Founder |
 | 2018/08 → 2020/08 | 🚔 [Mark43](https://github.com/mark43) | Junior Full-Stack Engineer |
 
-### Stats
+</div>
+
+<div align="center">
+
+<h2>Stats</h2>
 
 ![Vargas + VargasJR Stats](https://vargasjr.dev/api/github-stats)
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />

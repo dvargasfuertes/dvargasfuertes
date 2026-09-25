@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/dvargasfuertes"><img src="https://img.shields.io/badge/Twitter-%F0%9F%90%A6-1DA1F2?style=flat" alt="Twitter" /></a>
+  <a href="https://twitter.com/dvargasfuertes"><img src="https://vargasjr.dev/twitter-badge.svg" alt="Twitter" /></a>
   <a href="https://vargasjr.dev/projects"><img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20Portfolio-000000?style=flat" alt="Portfolio" /></a>
   <a href="mailto:dvargasfuertes@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
